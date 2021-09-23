@@ -1,4 +1,4 @@
-# 命令助手ID表生成工具
+# 命令助手ID表生成工具-原仓库地址：https://gitee.com/projectxero/caidlist
 ## 简介
 命令助手作者使用此工具生成ID表。
 
